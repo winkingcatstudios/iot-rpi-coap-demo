@@ -5,3 +5,5 @@ This project was done to learn CoAP server programming in Python on a Raspberry 
 Requires CoAPthon3 library.
 Add "project2.py" to set up CoAPthon on Rpi
 Add "project2resources.py" to add custom temperature resource to CoAPthon
+
+Wireshark analysis included in report.
